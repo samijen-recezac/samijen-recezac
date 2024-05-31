@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samijen-recezac, a starting second-year student
+- 👋 Hi, I’m @samijen-recezac, college student
 - 👀 I’m interested in Game and Software Development
 - 🌱 I’m currently learning Computer Science in the University of the Philippines Cebu
 - 📫 How to reach me: jasmine.cacerez@gmail.com or through 👾 Discord: bidibadibu
